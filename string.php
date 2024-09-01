@@ -2,6 +2,7 @@
 
 
 $name = "Ashik Ikbal Akash";
-echo "My name is " .$name;
+$age = 27;
 
+echo 'My name is' .$name. ' and age is ' .$age;
 ?>
