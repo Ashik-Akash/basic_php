@@ -7,7 +7,7 @@ $month = "September";
 $year = 2024; 
 
 
-echo $datetime = $day . " ". " ". $month. " ". $year;
+echo $datetime = $day ." ". $month. " ". $year;
 
 ?>
 
