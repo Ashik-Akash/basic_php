@@ -1,5 +1,8 @@
 <?php
 // Eligible to vote or not
+
+
+
 $age = 12;
 
 if ($age >= 18){
