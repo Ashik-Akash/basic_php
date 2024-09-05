@@ -1,12 +1,11 @@
 <?php
+// Eligible to vote or not
+$age = 12;
 
-$age = 15;
-
-if ($age < 18){
-    echo "Your are kids";
+if ($age >= 18){
+    echo "You are eligible to vote";
 }
 else {
-    echo "Your are older";
+    echo "You are not eligible to vote";
 }
-
 ?>
