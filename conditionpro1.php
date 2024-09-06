@@ -13,7 +13,10 @@
     echo "Yor are not 18+.";
  }
 
+ 
  echo "<br/>";
+
+
 
  if ($name=="Anil"){
 
