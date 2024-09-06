@@ -1,8 +1,8 @@
 <?php
 
-$num = -9;
+$number = -9;
 
-if ($num > 0){
+if ($number > 0){
 
     echo "This number is positive number";
 }
