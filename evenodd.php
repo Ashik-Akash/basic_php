@@ -8,7 +8,7 @@ if ($number % 2 == 0){
     echo "This number is even number";
 }
 else {
-    echo "This is odd number";
+    echo "This number is odd number";
 }
 
 ?>
