@@ -1,24 +1,28 @@
 <?php
 
-$network = 78;
-$software = 90;
-$machinlearning = 67;
+$network = 50;
+$software = 78;
+$machinlearning = 100;
 $datastructure = 98;
+$java = 98;
 
-$totalnumber = ( $network + $software + $machinlearning + $datastructure ) / 4;
+$totalnumber = ( $network + $software + $machinlearning + $datastructure + $java ) / 4;
 
-if ( $totalnumber >= 100){
+if ( $totalnumber >=90){
     echo "A+";
 }
 
-else if ($totalnumber >= 90){
+else if ($totalnumber >=70){
     echo  "A";
 }
 
-else if ($totalnumber >= 80 ) {
+else if ($totalnumber >=60) {
     echo "A-";
 }
+else if ( $totalnumber >=50){
 
+    echo "B";
+}
 
 
 ?>
