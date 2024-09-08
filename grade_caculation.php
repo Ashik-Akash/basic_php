@@ -6,7 +6,7 @@ $machinlearning = 100;
 $datastructure = 98;
 $java = 98;
 
-$totalnumber = ( $network + $software + $machinlearning + $datastructure + $java ) / 4;
+$totalnumber = ( $network + $software + $machinlearning + $datastructure + $java ) / 5;
 
 if ( $totalnumber >=90){
     echo "A+";
