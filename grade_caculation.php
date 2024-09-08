@@ -11,6 +11,14 @@ if ( $totalnumber >= 100){
     echo "A+";
 }
 
+else if ($totalnumber >= 90){
+    echo  "A";
+}
+
+else if ($totalnumber >= 80 ) {
+    echo "A-";
+}
+
 
 
 ?>
