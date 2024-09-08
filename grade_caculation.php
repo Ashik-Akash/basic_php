@@ -1,10 +1,10 @@
 <?php
 
 $network = 50;
-$software = 78;
-$machinlearning = 100;
-$datastructure = 98;
-$java = 98;
+$software = 50;
+$machinlearning = 50;
+$datastructure = 50;
+$java = 50;
 
 $totalnumber = ( $network + $software + $machinlearning + $datastructure + $java ) / 5;
 
@@ -19,10 +19,13 @@ else if ($totalnumber >=70){
 else if ($totalnumber >=60) {
     echo "A-";
 }
-else if ( $totalnumber >=50){
+else if ($totalnumber >=50){
 
     echo "B";
 }
 
+else if ($totalnumber >=40){
+    echo "F";
+}
 
 ?>
