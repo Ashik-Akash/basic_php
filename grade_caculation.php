@@ -1,10 +1,10 @@
 <?php
 
-$network = 50;
-$software = 50;
+$network = 70;
+$software = 90;
 $machinlearning = 50;
-$datastructure = 50;
-$java = 50;
+$datastructure = 90;
+$java = 89;
 
 $totalnumber = ( $network + $software + $machinlearning + $datastructure + $java ) / 5;
 
