@@ -9,23 +9,23 @@ $java = 89;
 $totalnumber = ( $network + $software + $machinlearning + $datastructure + $java ) / 5;
 
 if ( $totalnumber >=90){
-    echo "A+";
+    echo "Your Grade Is : A+";
 }
 
 else if ($totalnumber >=70){
-    echo  "A";
+    echo  "Your Grade Is : A";
 }
 
 else if ($totalnumber >=60) {
-    echo "A-";
+    echo "Your Grade Is : A-";
 }
 else if ($totalnumber >=50){
 
-    echo "B";
+    echo "Your Grade Is : B";
 }
 
 else if ($totalnumber >=40){
-    echo "F";
+    echo "Your Grade Is : F";
 }
 
 ?>
