@@ -9,9 +9,10 @@ if ( $a > $b && $a > $c){
 else if ($b > $c && $b > $c){
     echo "b is largest number";
 }
+else if ($c > $b && $c > $a){
+    echo "c is largest number";
 
-
-
+}
 
 
 ?>
