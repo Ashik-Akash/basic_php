@@ -1,8 +1,8 @@
 <?php 
-$a = -7;
+$a = 7;
 $b = 70;
 $c = 10;
-$d = 100;
+
 if ( $a > $b && $a > $c){
     echo " A is  largest number";
 }
@@ -13,9 +13,6 @@ else if ($c > $b && $c > $a){
     echo "C is largest number";
 
 }
-else if ($d > $c && $d > $c){
-    echo "D is largest number";
 
-}
 
 ?>
