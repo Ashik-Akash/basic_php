@@ -1,7 +1,7 @@
 <?php
  //check age and name 
 
- $age = 10;
+ $age = 50;
  $name = "Anil";
 
 
