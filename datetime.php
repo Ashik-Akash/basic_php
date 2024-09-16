@@ -5,7 +5,7 @@ $hour = 10;
 $min = 48;
 $sec = 55;
 $day = 5;
-$month = "September";
+$month = "July";
 $year = 2024;
 
 $time = $hour . ':' . $min . ':' . $sec; 
