@@ -7,8 +7,8 @@ $datastructure = 90;
 $java = 89;
 $Algorithom = 89;
 $python = 50;
-
-$totalnumber = ( $network + $software + $machinlearning + $datastructure + $java + $Algorithom + $python) / 7;
+$java2 = 66;
+$totalnumber = ( $network + $software + $machinlearning + $datastructure + $java + $Algorithom + $python + $java2 ) / 8;
 
 if ( $totalnumber >=90){
     echo "Your Grade Is : A+";
