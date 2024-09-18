@@ -1,7 +1,7 @@
 <?php 
-$a = 7;
+$a = 99;
 $b = 70;
-$c = 100;
+$c = 10;
 
 if ( $a > $b && $a > $c){
     echo " A is  largest number";
