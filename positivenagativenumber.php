@@ -1,6 +1,6 @@
 <?php
 
-$number = -9;
+$number = -90;
 
 if ($number > 0){
 
