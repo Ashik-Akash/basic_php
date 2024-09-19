@@ -1,8 +1,8 @@
 <?php
  //check age and name 
 
- $age = 50;
- $name = "Anil";
+ $age = 30;
+ $name = "Ashik";
 
 
  if ($age>18) {
