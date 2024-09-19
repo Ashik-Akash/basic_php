@@ -1,15 +1,15 @@
 <?php 
  //check even and odd number
 
-$number = 5;
+$number = 9;
 
 if ($number % 2 == 0){
 
-    echo "Even number";
+    echo "This number is Even  number";
 }
 else {
 
-    echo "Odd number";
+    echo "This number is Odd number";
 }
 
 ?> 
