@@ -4,13 +4,13 @@ $num = 9;
 
 
 if ($num > 0){
-    echo "This is a positive number";
+    echo "Positive number";
 }
 else if ($num < 0) {
-    echo "This is nagative number";
+    echo "Nagative number";
 }
 else {
-    echo "This is zero number";
+    echo "Zero number";
 }
 
 ?>
