@@ -25,7 +25,7 @@
 
  else {
 
-    echo "Sorry!, This is wrong person.";
+    echo "Sorry! This is wrong person.";
  }
 
 ?>
