@@ -2,8 +2,8 @@
 //Formatting a Date String
 
 $hour = 10;
-$min = 48;
-$sec = 55;
+$min = 38;
+$sec = 35;
 $day = 5;
 $month = "July";
 $year = 2024;
