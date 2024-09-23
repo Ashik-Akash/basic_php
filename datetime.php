@@ -9,6 +9,7 @@ $month = "July";
 $year = 2024;
 
 $time = $hour . ':' . $min . ':' . $sec; 
+
 echo $alldatetime = $time." Date is : ". $day ." Month is : ". $month . " Year is : ". $year;
 
 ?>
