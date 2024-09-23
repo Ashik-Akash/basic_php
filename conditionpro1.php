@@ -18,7 +18,7 @@
 
 
 
- if ($name=="Anil"){
+ if ($name=="Ashik Ikbal Akash"){
 
     echo "Welcome, This is right person.";
  }
