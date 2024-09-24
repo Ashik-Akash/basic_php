@@ -6,11 +6,11 @@
 
 
  if ($age>18) {
-     echo "Your are adult.";
+     echo "Your are 18+.";
  }
 
  else {
-    echo "Yor are not adult.";
+    echo "Yor are not 18-.";
  }
 
  
