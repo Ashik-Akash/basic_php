@@ -2,10 +2,10 @@
 //Formatting a Date String
 
 $hour = 10;
-$min = 38;
+$min = 48;
 $sec = 35;
-$day = 5;
-$month = "July";
+$day = 19;
+$month = "Agust";
 $year = 2024;
 
 $time = $hour . ':' . $min . ':' . $sec; 
